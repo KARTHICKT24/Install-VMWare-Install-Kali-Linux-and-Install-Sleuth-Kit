@@ -29,6 +29,7 @@ Open the terminal in Kali Linux and run the command sudo apt install sleuthkit t
 
 ### SLEUTH KIT:
 ![sleuth](https://github.com/user-attachments/assets/de5434f0-29c7-4b7d-84d7-00aee5292e7d)
+![SLEUTH FLS](https://github.com/user-attachments/assets/5e367b52-6eb1-40e9-ab7c-df8ffbceec15)
 
 
 
